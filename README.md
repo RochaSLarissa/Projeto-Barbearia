@@ -1,1 +1,1 @@
-# Projeto-Barbearia
+# Projeto-Lojinha
