@@ -16,7 +16,8 @@ body {
 }
 
 .titulo-centralizado {
-	text-align: center
+	text-align: center;
+	font size: 30px;
 }
 
 p {
